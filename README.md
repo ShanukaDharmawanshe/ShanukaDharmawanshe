@@ -1,4 +1,3 @@
-### Hi there 👋
 <h1 align="center">Hi 👋, I'm Shanuka Dharmawanshe</h1>
 <h3 align="center">An IT Undergraduate from University of Moratuwa , Sri Lanka</h3>
 
@@ -25,4 +24,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shanukadharmawanshe&show_icons=true&locale=en" alt="shanukadharmawanshe" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shanukadharmawanshe&" alt="shanukadharmawanshe" /></p>
+
 
