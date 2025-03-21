@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shanukadharmawanshe&label=Profile%20views&color=0e75b6&style=flat" alt="shanukadharmawanshe" /> </p>
 
-- 🔭 I’m currently an undergraduate from **University of Moratuwa**
+- 🔭 An IT Undergraduate from **University of Moratuwa**
 
 - 🌱 Passionate about  **Cloud Computing, DevOps practices, and Data Engineering**
 
