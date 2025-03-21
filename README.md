@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently an undergraduate from **University of Moratuwa**
 
-- 🌱 Passionate about  **Cloud Computing, DevOps practices, Data Engineering and Databases**
+- 🌱 Passionate about  **Cloud Computing, DevOps practices and Data Engineering**
 
 - 📫 How to reach me **shanukadharmawanshe97@gmail.com**
 
