@@ -5,9 +5,7 @@
 
 - 🔭 I’m currently an undergraduate from **University of Moratuwa**
 
-- 🌱 I’m currently learning **Web Development , Databases**
-
-- 💬 Ask me about **Angular,Spring Boot ,MySQL**
+- 🌱 Passionate about  **Cloud Computing, DevOps practices, Data Engineering and Databases**
 
 - 📫 How to reach me **shanukadharmawanshe97@gmail.com**
 
