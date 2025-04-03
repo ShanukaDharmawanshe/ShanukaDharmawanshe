@@ -31,11 +31,7 @@
   <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shanukadharmawanshe&show_icons=true&locale=en&layout=compact" alt="shanukadharmawanshe" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shanukadharmawanshe&show_icons=true&locale=en" alt="shanukadharmawanshe" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shanukadharmawanshe&" alt="shanukadharmawanshe" /></p>
 
 
 
